@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+
+.sidemenu{
+    background-color: rgb(15, 15, 15);
+    height: 100vh;
+    width: 110px;
+    display: inline-block;
+}
+
+.logo { 
+    width: 60%;
+}
+
+h5 {
+    font-family: 'Quicksand', sans-serif; 
+}
+
+.yazicik{
+    font-size: 11px;
+    color: rgb(182, 135, 49);
+}
