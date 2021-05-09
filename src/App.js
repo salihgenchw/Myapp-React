@@ -1,10 +1,15 @@
-import SideMenu from './components/SideMenu';
+import Topbar from './components/Topbar';
 import './css/App.css';
 
 function App() {
   return (
     <div className="App">
-      <SideMenu/>
+      <div className="container-fluid">
+        <Topbar/>
+        <div className="row">
+          
+        </div>
+      </div>
     </div>
   );
 }

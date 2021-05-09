@@ -1,0 +1,30 @@
+p, h6 ,li {
+font-family: 'Inconsolata', monospace;
+}
+
+li{
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.green{
+    color: rgb(74, 216, 180);
+    font-weight: bold;
+
+}
+
+.pink {
+    color: rgb(184, 64, 206);
+    font-weight: bold;
+}   
+
+.yellow {
+    color: rgb(255, 230, 0);
+    font-weight: bold;
+}
+
+.orange {
+    color: rgb(255, 146, 4);
+    font-weight: bold;
+
+}

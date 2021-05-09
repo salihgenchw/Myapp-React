@@ -1,0 +1,32 @@
+.container-fluid {
+    margin: 0!important;
+    padding: 0!important;
+}
+
+.bgtop{
+    background-color: #241b2f;
+}
+
+.topbarmenu {
+    color: rgb(195, 195, 195);
+    list-style: none;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+.topbarmenu li {
+    display: inline;
+    margin: 0 0 0 20px;
+    padding: 0;
+}
+
+.topbarmenu li:hover {
+   background-color: gray;
+}
+
+.projectName {
+    color: rgb(180, 180, 180);
+    margin-left: 22%;
+}
+
