@@ -1,0 +1,27 @@
+.container-fluid {
+    margin: 0;
+    padding: 0;
+    width: 106%;
+    background-color: #241b2f;
+}
+
+.nav-tabs {
+    border: 0;
+    
+}
+.nav-link{
+    padding-right: 23px!important;
+    background-color: #262335!important;
+}
+
+/* .active {
+    background-color: #262335!important;
+} */
+
+.nav-tabs .nav-link.active {
+    border-bottom: 1px solid purple;
+    border-top: 0; 
+    border-left: 0; 
+    border-right: 0;
+}
+

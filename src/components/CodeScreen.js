@@ -4,9 +4,9 @@ import '../css/codescreen.css';
 function CodeScreen() {
   return (
     <div>
-      <div className="container-fluid">
+      <div className="container-fluid" style={{backgroundColor:'#262335'}}> 
         <p className="text-secondary">
-          myapp > src > components > helloworld.js
+          salihgenc.com &gt; src &gt; components &gt; mainpage.js
         </p>
         <div className="row">
           <div className="col-1">

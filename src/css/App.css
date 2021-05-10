@@ -1,5 +1,15 @@
-body {
+/* body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+} */
+
+.col-1{
+    max-width: 56px;
+}
+
+
+
+.row {
+    --bs-gutter-x:0;
 }
