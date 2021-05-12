@@ -1,6 +1,4 @@
-
-
-p, h6 ,li {
+p, h6 ,li, span {
 font-family: 'Inconsolata', monospace;
 }
 
@@ -12,7 +10,7 @@ li{
 .green{
     color: rgb(74, 216, 180);
     font-weight: bold;
-
+    margin-left: 2px;
 }
 
 .pink {
@@ -28,5 +26,12 @@ li{
 .orange {
     color: rgb(255, 146, 4);
     font-weight: bold;
+}
+.blue{
+    color: rgb(4, 255, 255);
+    font-weight: bold;
+}
 
+.besinci{
+    margin-top: 56px;
 }
