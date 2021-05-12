@@ -37,8 +37,6 @@ const CodeScreen = () => {
                 <li>23</li>
                 <li>24</li>
                 <li>25</li>
-
-
             </ul>
           </div>
 
@@ -178,8 +176,15 @@ const CodeScreen = () => {
               <h6 className="text-white d-inline">
             <span className="pink">)&#125;</span>
             <span className="text-secondary fw-bold">;</span>
+              </h6>
+            </span>
 
-
+            <span className="d-block ms-2" style={{marginTop:'30px'}}> 
+              <h6 className="text-white d-inline">
+            <span className="green">export </span>
+            <span className="yellow">default </span>
+            <span className="blue">Selam</span>
+            <span className="text-secondary fw-bold">;</span>
               </h6>
             </span>
 
