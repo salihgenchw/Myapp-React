@@ -1,4 +1,4 @@
 # Kisisel web sitem.
 
-<img src="https://ibb.co/0s4YTVP" alt="sss" border="0">
+<a href="https://ibb.co/0s4YTVP"><img src="https://i.ibb.co/Z24c51y/sss.jpg" alt="sss" border="0"></a>
 
