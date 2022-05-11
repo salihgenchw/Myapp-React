@@ -6,7 +6,7 @@
 <a href="https://salihgenc.com" target="_blank"># Live DEMO</a>
 
 
-<a href="myapp-f695yaqx6-salihgenchw.vercel.app" target="_blank"># Vercel Demo</a>
+<a href="https://myapp-rho-one.vercel.app/" target="_blank"># Vercel Demo</a>
 
 
 
